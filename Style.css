@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 10;
+}
+.icon{
+    color: blueviolet;
+}
+
+.menu{
+
+    width: 400px;
+    float: left;
+    height: 70px;
+}
+body{
+background-color: rgb(20, 20, 20);
+
+
+}
+img{
+padding-bottom: 10;
+
+}
+ul{
+float: left;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 14px;
+    
+}
